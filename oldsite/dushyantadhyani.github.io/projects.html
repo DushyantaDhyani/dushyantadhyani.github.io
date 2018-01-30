@@ -1,0 +1,164 @@
+<!DOCTYPE <!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width , initial-scale=1 user-scalable=no" >
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="css/main.css">
+		<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+		<script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
+		<script type="text/javascript" src="js/bootstrap.min.js"></script>
+		<title>Dushyanta Dhyani</title>
+	</head>
+	<body>
+		<nav class="navbar navbar-default navbar-fixed-top colorcombo">
+		        <div class="container">
+		            <div class="navbar-header">
+		                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+		                    <span class="sr-only">Toggle navigation</span>	
+		                    <span class="icon-bar"></span>
+		                    <span class="icon-bar"></span>
+		                    <span class="icon-bar"></span>	                    
+		                </button>
+		                <a class="navbar-brand" href="index.html"><span class="fa fa-home"></span>home</a>
+		            </div>
+		            <div class="collapse navbar-collapse">
+		                <ul class="nav navbar-nav navbar-right">
+		                    <li><a href="academics.html"><span class="fa fa-graduation-cap"></span> Academics</a></li>
+		                    <li><a href="experience.html"><span class="fa fa-university"></span> Experience</a></li>
+		                    <li><a href="projects.html"><span class="fa fa-paperclip"></span> Projects</a></li>
+							 <li><a href="others.html"><span class="fa fa-gears"></span> Others</a></li>
+		                   
+						   <li><a href="https://dushyantadhyani.github.io/blog/"><span class="fa fa-edit fixedwidth"></span> Blog</a></li>
+		                </ul>
+		            </div>
+		            <!--/.nav-collapse -->
+		        </div>
+		</nav>
+		<div class="container">
+			<div class="row">				
+				<div class="col-xs-12 mainarea">
+					<div>
+						<h4 class="blockheading">Projects</h4>						
+						<div class="projblock" id="proj1">				  
+					    	<h4 class="sectionheading"><b>Event and Participant extraction from Natural Language Text</b><em class="panel-year">Jan-June,2015</em></h4>	
+					  		<div >						    	
+					    		<p>
+					    			As part of the <a href="https://www.ukp.tu-darmstadt.de/research/current-projects/structuring-story-chains/"> Structuring Story Chains </a> project, I worked on the following.
+								    <ul >
+										<li>Worked on extracting events and their corresponding participants from News Events as available in the <a href="http://www.newsreader-project.eu/results/data/the-ecb-corpus/">ECB+ Corpus</a>. Used a Conditional random classifier with various structural, sentactic, semantic and latent (Word embedding) features to create near state of the art base models on top of which the remaining framework would be built.</li>
+										<li>Analysed the suitability of the ECB+ Corpus and the TimeML Corpus for the task.</li>								
+										<li>Worked on adding Temporal annotation tagger to enable chronological ordering of the events.</li>		
+									</ul>
+					    		</p>						    										
+					  		</div>				
+						</div>
+						<div class="projblock" >				  
+					    	<h4 class="sectionheading"><b>SVMLite</b><em class="panel-year">March,2015-</em></h4>				  
+					  		<div id="temp">						    	
+							    <ul >
+							    	<li>Implemented John Platt's Sequential Minimal Optimization Algorithm for Support Vector Classification</li>
+							    	<li>Available for Java. Currently working on a parallel, CUDA based implementation.</li>									
+								</ul>								
+					  		</div>				
+						</div>
+						<div class="projblock" >				  
+					    	<h4 class="sectionheading"><b>HoG Feature based Face Detection with Sliding Window</b><em class="panel-year">December,2015-</em></h4>				  
+					  		<div id="temp">						    	
+							    <ul >
+							    	<li>Worked on implementing the sliding window detector approach by <a href="https://lear.inrialpes.fr/people/triggs/pubs/Dalal-cvpr05.pdf">Dalal and Triggs</a> for face detection.</li>
+							    	<li>Implemented Histogram of Oriented Gradients (HoG) features in Python.</li>								
+							    	<li>Designed and Trained an SVM Classifier using the positive database from the <a href="http://www.vision.caltech.edu/Image_Datasets/Caltech_10K_WebFaces/"> Caltech 10,000 Web Faces Project</a> . Hard negative mining was used on a database from a subset of the <a href="http://groups.csail.mit.edu/vision/SUN/"> SUN Database</a>  </li>	
+								</ul>								
+					  		</div>				
+						</div>
+						<div class="projblock" >				  
+					    	<h4 class="sectionheading"><b><a href="https://www.kaggle.com/c/facial-keypoints-detection" class="noformat_link">Facial Keypoints Detection , Kaggle </b></a> <em class="panel-year">2016-</em></h4>				  
+					  		<div id="temp">						    	
+							    <ul >
+							    	<li>Working on using Convolutional Neural Nets for the task of predicting various facial keypoints.</li>	
+							    	<li>Testing various architectures of CNN's using Lasagne.</li>							    	
+								</ul>								
+					  		</div>				
+						</div>
+						<div class="projblock" >				  
+					    	<h4 class="sectionheading"><b>Language Identifier for Short Text Segments</b><em class="panel-year">July-Aug,2014</em></h4>				  
+					  		<div id="temp">						    	
+							    <ul >
+							    	<li>Created an end to end framework for language identification/text categorization from raw text.</li>
+							    	<li>An N-gram model with a Naive Bayes Classifier is used for the classification task.</li>
+									<li>The tool worked well not only for long but also for short text segments.</li> 										
+								</ul>								
+					  		</div>				
+						</div>
+						<div class="projblock" >				  
+					    	<h4 class="sectionheading"><b>MiniOS </b><em class="panel-year">Sep-Oct,2012</em></h4>				  
+					  		<div>
+					  			<p>A miniature version of an x86 Operating System consisting of the following components.</p>					    	
+							    <ul style="list-style-type:none">
+									<li> File System supporting Directories, Sub Directories and Files.</li>
+									<li> A miniature shell supporting basic commands like ls,mkdir,cd,del,execute etc.</li>
+									<li> A Process table with maximum 8 processes.</li>
+									<li> Context Switching between the processes using Round Robin Schedulling.</li>
+								</ul>
+					  		</div>				
+						</div>						
+						<div class="projblock" >				  
+					    	<h4 class="sectionheading"><b>Bayesian Email Spam Filter </b><em class="panel-year">Sep-Oct,2013</em></h4>				  
+					  		<div>					    	
+							    <ul style="list-style-type:none">
+									<li> Create a small framework for classifying Ham mails from spam mails.</li>
+									<li> Implemented the Naive Bayes Classification methodology from scratch trained using the Spam Assasin Dataset.</li>
+								</ul>
+					  		</div>				
+						</div>						
+					</div>
+					<div>
+						<h4 class="blockheading">Open Source Contributions</h4>
+						<div class="compblock" >				  
+					    	<h4><b>Object Proposals</b><em class="panel-year">2015</em></h4>					    	
+					  		<div>						    	
+							    <ul style="list-style-type:none">
+									<li>Integrated the <a href="http://www.philkr.net/home/gop">Geodesic Object Proposals</a> module into the <a href="https://github.com/batra-mlp-lab/object-proposals">Object Proposals</a> library.</li>
+								</ul>								
+					  		</div>				
+						</div>						
+					</div>												
+					<div>
+						<h4 class="blockheading">Online Competitions</h4>
+						<div class="compblock" >				  
+					    	<h4><b>Plankton Classification</b><em class="panel-year">2015</em></h4>
+					    	<h5><i>National Data Science Bowl, Kaggle</i></h5>				  
+					  		<div>						    	
+							    <ul style="list-style-type:none">
+									Used a random forest classifier with several structural features like convexity, eccentricity, solidity , etc. from Plankton Images to create a framework for classifying plankton images.
+								</ul>
+					  		</div>				
+						</div>						
+					</div>												
+					<div>
+						<h4 class="blockheading">Seminars</h4>
+						<div class="semblock" >				  
+					    	<h4><b>Gaussian Vs Uniform Distribution for Intrusion Detection in Wireless Sensor Networks </b><em class="panel-year">2014</em></h4>				  
+					  		<div>						    	
+							    <ul style="list-style-type:none">
+									
+								</ul>
+					  		</div>				
+						</div>
+						<div class="semblock" >				  
+					    	<h4><b>Application of Supervised Machine Learning in Natural Langugage Processing </b><em class="panel-year">2012</em></h4>				  
+					  		<div>						    	
+							    <ul style="list-style-type:none">
+									
+								</ul>
+					  		</div>				
+						</div>												
+					</div>												
+				</div>
+			</div >									
+		</div>		
+		<script src="js/main.js"></script>
+	</body>
+</html>	

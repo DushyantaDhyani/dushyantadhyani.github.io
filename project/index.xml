@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Dushyanta Dhyani</title>
+    <link>https://dushyantadhyani.github.io/project/</link>
+    <description>Recent content in Projects on Dushyanta Dhyani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Dushyanta Dhyani</copyright>
+    <lastBuildDate>Mon, 08 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dushyantadhyani.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Event &amp; Participant Extraction from News Articles (Automatic Timeline Generation of News Events)</title>
+      <link>https://dushyantadhyani.github.io/project/ukp_timeline_gen/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dushyantadhyani.github.io/project/ukp_timeline_gen/</guid>
+      <description>The larger aim of the project is to create a chronological ordering of important sub-events (and their participants) involved in a bigger event. I worked on the task of creating a strong baseline model for identifying important events in news articles and their associated participants. We used articles from the ECB+ Corpus and Timebank Corpus. We performed extensive feature engineering using syntactic and semantic features that were then used with a CRF Classifier to achieve the following F-1 scores:</description>
+    </item>
+    
+    <item>
+      <title>Fake News Challenge: Stance Detection for combating Fake News</title>
+      <link>https://dushyantadhyani.github.io/project/fnc/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dushyantadhyani.github.io/project/fnc/</guid>
+      <description>The Fake News Challenge aims at combating the problem of fake news using AI/Machine Learning. As a first step towards that goal, it focuses on the problem of Stance Detection, wherein we aim to automcatically assess the stance of the body of a news article with respect to it&amp;rsquo;s title. The rationale behind this is that if multiple credible news sources show a positive stance towards the same (or similar) titles, then the news is likely to be genuine.</description>
+    </item>
+    
+  </channel>
+</rss>

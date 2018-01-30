@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Dushyanta Dhyani</title>
+    <link>https://dushyantadhyani.github.io/publication/</link>
+    <description>Recent content in Publications on Dushyanta Dhyani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Dushyanta Dhyani</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dushyantadhyani.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tutorial - A Convolutional Encoder Model for Neural Machine Translation</title>
+      <link>https://dushyantadhyani.github.io/publication/conv2seq_nips/</link>
+      <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dushyantadhyani.github.io/publication/conv2seq_nips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OhioState at IJCNLP-2017 Task 4: Exploring Neural Architectures for Multilingual Customer Feedback Analysis</title>
+      <link>https://dushyantadhyani.github.io/publication/ijcnlp_shared_task_4/</link>
+      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dushyantadhyani.github.io/publication/ijcnlp_shared_task_4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

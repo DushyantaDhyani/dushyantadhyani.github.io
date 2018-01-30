@@ -1,0 +1,140 @@
+body{
+	padding: 15px;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 16px;	
+}
+#profiledetails{
+	text-align: center;
+}
+.profimage{
+	padding-top: 100px;	
+}
+#homeeducation{
+	padding-top: 50px;
+}
+#homeexperience{
+	padding-top: 50px;
+}
+#headerblock{
+	padding-top: 100px;
+}
+.subrow{
+	padding-top: 50px;
+}
+.blockheading{
+	color: #00008B;
+	font-weight: bold;
+	font-size: 20px;	
+	padding-bottom: 20px;
+}
+.projblock , .compblock , .semblock {
+	padding-bottom: 30px;
+}
+.accordianpanels{
+	width: auto;
+	padding:5px;	
+}
+.colorcombo{	
+	background-color: #5FBEDE;
+	color:white;
+}
+.panel-default > .panelcolorcombo{
+	background-image: none;
+	background-color: #5FBEDE;
+	color:white;
+}
+.mid{
+ margin: auto;
+ width:10%
+
+}
+footer{
+	text-align: center;
+}
+.desctext{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.brandlogo{
+	height: 106px;
+/*	width: 126px;*/
+	width: 160px;
+}
+.brandlogo2{
+	height: 100px;
+	/*width: 126px;*/
+	width:160px;
+}
+.brandlogo3{
+	height: 100px;
+/*	width: 126px;*/
+	width:160px;
+}
+.sociallink{
+	width: 25px;
+	height: 25px;
+}
+.sociallogo{
+	width: 25px;
+	height: 25px;
+}
+#courselisting{
+	margin-top: 20px;
+	/*padding-left: 5px;*/
+	/*width: 500px;*/
+}
+.coursecollapse{
+	color: brown;
+}
+.courseracoursedetails , .panel-year{
+	float: right;	
+}
+.myquote{
+	font-style: italic;
+
+	margin-top: 20px;
+	color: brown;
+}
+.mainarea{
+/*	padding-left: 60px;
+*/	padding-top: 100px;
+}
+.mainareahome{
+	padding-left: 60px;
+	padding-top: 100px;
+}
+body{
+	padding-bottom: 180px;
+}
+.expblock{
+	padding-bottom: 30px;
+}
+strong{
+	font-color:
+}
+.panel{
+	border:0px;
+}
+.accordionpanels > ul {
+	padding-left: 9px;
+}
+.subjectlist {
+	padding-left: 10px;
+}
+.sectionheading{
+	margin-bottom: 20px;
+}
+/*.accordionpanels > ul > */
+.expblock > ul > li {
+	padding-top: 10px;
+}
+.orglist {
+	padding-bottom: 30px;
+}
+.noformat_link{
+	color: inherit;
+	text-decoration: none;
+}
+.noformat_link:hover{
+	color: black;
+}
