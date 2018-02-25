@@ -61,7 +61,7 @@
 Currently working under the supervision of Prof. Huan Sun on developing techniques for effectively utilizing clean and noisy data in natural language processing.
  Software Engineering Intern, AWS Deep Learning
 As part of the team that built Amazon Comprehend I worked on the following tasks for deployment of an NLP service (currently not part of the Comprehend suite) on AWS Infrastructure:
- Performing extensive experiments using multiple machine learning models and datasets for the given task along with hyper-parameter optimization.</description>
+ Performing extensive experiments using multiple machine learning models and datasets for the given task.</description>
     </item>
     
     <item>
