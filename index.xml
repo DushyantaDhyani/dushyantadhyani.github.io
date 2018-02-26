@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>OhioState at SemEval-2018 Task 7: Exploiting Data Augmentation for Relation Classification in Scientific Papers using Piecewise Convolutional Neural Networks</title>
+      <link>https://dushyantadhyani.github.io/publication/ohiostate_semeval_task_7/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dushyantadhyani.github.io/publication/ohiostate_semeval_task_7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Event &amp; Participant Extraction from News Articles (Automatic Timeline Generation of News Events)</title>
       <link>https://dushyantadhyani.github.io/project/ukp_timeline_gen/</link>
       <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
