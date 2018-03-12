@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Dushyanta Dhyani</copyright>
-    <lastBuildDate>Mon, 08 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dushyantadhyani.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Knowledge Distillation (using Tensorflow)</title>
+      <link>https://dushyantadhyani.github.io/project/kd/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dushyantadhyani.github.io/project/kd/</guid>
+      <description>This is an implementation for the basic idea behind Hinton&amp;rsquo;s Knowledge Distillation Paper. We do not reproduce the exact results but rather show that the idea works.
+While a few other implementations are available, the code flow is not very intuitive. Here we generate the soft targets from the teacher in an on-line manner while training the student network.
+While this may not (or may) be a good way to implement the distillation architecture, it leads to a good improvement in the (small) student model.</description>
+    </item>
     
     <item>
       <title>Event &amp; Participant Extraction from News Articles (Automatic Timeline Generation of News Events)</title>
