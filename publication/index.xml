@@ -13,6 +13,24 @@
     
     
     <item>
+      <title>Boosting Supervised Neural Relation Extraction with Distant Supervision</title>
+      <link>https://dushyantadhyani.github.io/publication/thesis/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dushyantadhyani.github.io/publication/thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OhioState at SemEval-2018 Task 7: Exploiting Data Augmentation for Relation Classification in Scientific Papers Using Piecewise Convolutional Neural Networks</title>
+      <link>https://dushyantadhyani.github.io/publication/semeval18/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dushyantadhyani.github.io/publication/semeval18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tutorial - A Convolutional Encoder Model for Neural Machine Translation</title>
       <link>https://dushyantadhyani.github.io/publication/conv2seq_nips/</link>
       <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>

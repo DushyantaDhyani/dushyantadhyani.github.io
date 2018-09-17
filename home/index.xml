@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Dushyanta Dhyani</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://dushyantadhyani.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Academic</title>
       <link>https://dushyantadhyani.github.io/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
       
       <guid>https://dushyantadhyani.github.io/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
@@ -28,13 +28,13 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://dushyantadhyani.github.io/home/about/</guid>
-      <description>About Me Dushyanta is a Master&amp;rsquo;s student in the Computer Science Department at The Ohio State University. He is currently working under the supervision of Prof. Huan Sun on Weakly Supervised methods in Natural Language Processing. In Summer 2017, he worked as an SDE intern at the AWS Deep Learning group in Seattle that released the AWS Comprehend tool. Prior to joining OSU he was a Research Assistant at the Ubiquitous Knowledge Processing Lab under the supervision of Prof Dr.</description>
+      <description>About Me Dushyanta is an SDE in AWS Deep Learning Group at Amazon. Prior to this, he was a Master&amp;rsquo;s student in the Computer Science Department at The Ohio State University where he was working under the supervision of Prof. Huan Sun on Weakly Supervised methods in Natural Language Processing. In Summer 2017, he worked as an SDE intern at the AWS Deep Learning group in Seattle that released the AWS Comprehend tool.</description>
     </item>
     
     <item>
       <title>Selected Publications</title>
       <link>https://dushyantadhyani.github.io/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://dushyantadhyani.github.io/home/publications_selected/</guid>
       <description></description>
@@ -52,6 +52,15 @@
     </item>
     
     <item>
+      <title>Publications And Tutorials</title>
+      <link>https://dushyantadhyani.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://dushyantadhyani.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Experience</title>
       <link>https://dushyantadhyani.github.io/home/workex/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
@@ -62,15 +71,6 @@ Currently working under the supervision of Prof. Huan Sun on developing techniqu
  Software Engineering Intern, AWS Deep Learning
 As part of the team that built Amazon Comprehend I worked on the following tasks for deployment of an NLP service (currently not part of the Comprehend suite) on AWS Infrastructure:
  Performing extensive experiments using multiple machine learning models and datasets for the given task.</description>
-    </item>
-    
-    <item>
-      <title>Publications And Tutorials</title>
-      <link>https://dushyantadhyani.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://dushyantadhyani.github.io/home/publications/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -112,7 +112,7 @@ As part of the team that built Amazon Comprehend I worked on the following tasks
     <item>
       <title>Tags</title>
       <link>https://dushyantadhyani.github.io/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
       
       <guid>https://dushyantadhyani.github.io/home/tags/</guid>
       <description></description>
