@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Workexes on Dushyanta Dhyani</title>
-    <link>https://dushyantadhyani.github.io/workex/</link>
-    <description>Recent content in Workexes on Dushyanta Dhyani</description>
+    <title>deep-learning on Dushyanta Dhyani</title>
+    <link>https://dushyantadhyani.github.io/tags/deep-learning/</link>
+    <description>Recent content in deep-learning on Dushyanta Dhyani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Dushyanta Dhyani</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Mar 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://dushyantadhyani.github.io/workex/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dushyantadhyani.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Knowledge Distillation (using Tensorflow)</title>
+      <link>https://dushyantadhyani.github.io/project/kd/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dushyantadhyani.github.io/project/kd/</guid>
+      <description>Training a smaller neural model using soft targets obtained from a larger model</description>
+    </item>
     
     <item>
       <title>Deep Learning New</title>
@@ -28,15 +37,6 @@
       
       <guid>https://dushyantadhyani.github.io/workex/sdi_aws_dl/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://dushyantadhyani.github.io/workex/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://dushyantadhyani.github.io/workex/example-external-project/</guid>
-      <description>An example of linking directly to an external project website using &lt;code&gt;external_link&lt;/code&gt;.</description>
     </item>
     
   </channel>
