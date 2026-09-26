@@ -1,43 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>natural-language-processing on Dushyanta Dhyani</title>
-    <link>https://dushyantadhyani.github.io/tags/natural-language-processing/</link>
-    <description>Recent content in natural-language-processing on Dushyanta Dhyani</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 Dushyanta Dhyani</copyright>
-    <lastBuildDate>Mon, 12 Mar 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://dushyantadhyani.github.io/tags/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Knowledge Distillation (using Tensorflow)</title>
-      <link>https://dushyantadhyani.github.io/project/kd/</link>
-      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://dushyantadhyani.github.io/project/kd/</guid>
-      <description>Training a smaller neural model using soft targets obtained from a larger model</description>
-    </item>
-    
-    <item>
-      <title>Event &amp; Participant Extraction from News Articles (Automatic Timeline Generation of News Events)</title>
-      <link>https://dushyantadhyani.github.io/project/ukp_timeline_gen/</link>
-      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://dushyantadhyani.github.io/project/ukp_timeline_gen/</guid>
-      <description>Extract events in News articles and their participants using a conditional random field classifier and extensive feature engineering</description>
-    </item>
-    
-    <item>
-      <title>Fake News Challenge: Stance Detection for combating Fake News</title>
-      <link>https://dushyantadhyani.github.io/project/fnc/</link>
-      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://dushyantadhyani.github.io/project/fnc/</guid>
-      <description>Detecting the stance of the body of an article with respect to its title. Our team (OSUfnc) ranked &lt;strong&gt;7th&lt;/strong&gt; of the &lt;strong&gt;50 teams&lt;/strong&gt; that participated</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Natural-Language-Processing on Dushyanta Dhyani</title><link>https://dushyantadhyani.github.io/tags/natural-language-processing/</link><description>Recent content in Natural-Language-Processing on Dushyanta Dhyani</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>dush.dhyani@gmail.com (Dushyanta Dhyani)</managingEditor><webMaster>dush.dhyani@gmail.com (Dushyanta Dhyani)</webMaster><copyright>&amp;copy; 2018&amp;ndash;2026 Dushyanta Dhyani</copyright><lastBuildDate>Mon, 12 Mar 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://dushyantadhyani.github.io/tags/natural-language-processing/" rel="self" type="application/rss+xml"/><item><title>Knowledge Distillation (using Tensorflow)</title><link>https://dushyantadhyani.github.io/project/kd/</link><pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate><author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author><guid>https://dushyantadhyani.github.io/project/kd/</guid><description>&lt;p&gt;This is an implementation for the basic idea behind Hinton&amp;rsquo;s Knowledge Distillation Paper. We do not reproduce the exact results but rather show that the idea works.&lt;/p&gt;
+&lt;p&gt;While a few other implementations are available, the code flow is not very intuitive. Here we generate the soft targets from the teacher in an on-line manner while training the student network.&lt;/p&gt;
+&lt;p&gt;While this may not (or may) be a good way to implement the distillation architecture, it leads to a good improvement in the (small) student model.&lt;/p&gt;</description></item><item><title>Event &amp; Participant Extraction from News Articles (Automatic Timeline Generation of News Events)</title><link>https://dushyantadhyani.github.io/project/ukp_timeline_gen/</link><pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate><author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author><guid>https://dushyantadhyani.github.io/project/ukp_timeline_gen/</guid><description>&lt;p&gt;The larger aim of the project is to create a chronological ordering of important sub-events (and their participants) involved in a bigger event. I worked on the task of creating a strong baseline model for identifying important events in news articles and their associated participants. We used articles from the ECB+ Corpus and Timebank Corpus. We performed extensive feature engineering using syntactic and semantic features that were then used with a CRF Classifier to achieve the following F-1 scores:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Event Extraction&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ECB+ Corpus - 73.02 %&lt;/li&gt;
+&lt;li&gt;TimeBank Corpus - 80.78%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Participants&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ECB+ Corpus - 56.51%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Fake News Challenge: Stance Detection for combating Fake News</title><link>https://dushyantadhyani.github.io/project/fnc/</link><pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate><author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author><guid>https://dushyantadhyani.github.io/project/fnc/</guid><description>&lt;p&gt;The Fake News Challenge aims at combating the problem of fake news using AI/Machine Learning. As a first step towards that goal, it focuses on the problem of Stance Detection, wherein we aim to automcatically assess the stance of the body of a news article with respect to it&amp;rsquo;s title. The rationale behind this is that if multiple credible news sources show a positive stance towards the same (or similar) titles, then the news is likely to be genuine. On the other hand, if sources with less credibility show a positive stance, the credibility of the news is deemed to be low as well.&lt;/p&gt;
+&lt;p&gt;We use traditional feature engineering techniques for extracting a variety of relevant signals from the text. Our team (OSUfnc) ranked &lt;strong&gt;7th&lt;/strong&gt; of the &lt;strong&gt;50 teams&lt;/strong&gt; that participated&lt;/p&gt;</description></item></channel></rss>
