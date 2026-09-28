@@ -1,1 +1,16 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Dushyanta Dhyani</title><link>https://dushyantadhyani.github.io/post/</link><description>Recent content in Posts on Dushyanta Dhyani</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>dush.dhyani@gmail.com (Dushyanta Dhyani)</managingEditor><webMaster>dush.dhyani@gmail.com (Dushyanta Dhyani)</webMaster><copyright>&amp;copy; 2018&amp;ndash;2026 Dushyanta Dhyani</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://dushyantadhyani.github.io/post/" rel="self" type="application/rss+xml"/></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Dushyanta Dhyani</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Dushyanta Dhyani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>dush.dhyani@gmail.com (Dushyanta Dhyani)</managingEditor>
+    <webMaster>dush.dhyani@gmail.com (Dushyanta Dhyani)</webMaster>
+    <copyright>&amp;copy; 2018&amp;ndash;2026 Dushyanta Dhyani</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

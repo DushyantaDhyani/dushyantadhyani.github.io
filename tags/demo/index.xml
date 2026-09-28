@@ -1,1 +1,25 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Demo on Dushyanta Dhyani</title><link>https://dushyantadhyani.github.io/tags/demo/</link><description>Recent content in Demo on Dushyanta Dhyani</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>dush.dhyani@gmail.com (Dushyanta Dhyani)</managingEditor><webMaster>dush.dhyani@gmail.com (Dushyanta Dhyani)</webMaster><copyright>&amp;copy; 2018&amp;ndash;2026 Dushyanta Dhyani</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://dushyantadhyani.github.io/tags/demo/" rel="self" type="application/rss+xml"/><item><title>External Project</title><link>https://dushyantadhyani.github.io/workex/example-external-project/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author><guid>https://dushyantadhyani.github.io/workex/example-external-project/</guid><description/></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo on Dushyanta Dhyani</title>
+    <link>http://localhost:1313/tags/demo/</link>
+    <description>Recent content in Demo on Dushyanta Dhyani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>dush.dhyani@gmail.com (Dushyanta Dhyani)</managingEditor>
+    <webMaster>dush.dhyani@gmail.com (Dushyanta Dhyani)</webMaster>
+    <copyright>&amp;copy; 2018&amp;ndash;2026 Dushyanta Dhyani</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/demo/" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>External Project</title>
+      <link>http://localhost:1313/workex/example-external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author>
+      <guid>http://localhost:1313/workex/example-external-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

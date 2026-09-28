@@ -1,1 +1,97 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publications on Dushyanta Dhyani</title><link>https://dushyantadhyani.github.io/publication/</link><description>Recent content in Publications on Dushyanta Dhyani</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>dush.dhyani@gmail.com (Dushyanta Dhyani)</managingEditor><webMaster>dush.dhyani@gmail.com (Dushyanta Dhyani)</webMaster><copyright>&amp;copy; 2018&amp;ndash;2026 Dushyanta Dhyani</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://dushyantadhyani.github.io/publication/" rel="self" type="application/rss+xml"/><item><title>Intra-Prompt Parallel Decoding for Common-Context Question Answering</title><link>https://dushyantadhyani.github.io/publication/intra_prompt_parallel_decoding/</link><pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate><author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author><guid>https://dushyantadhyani.github.io/publication/intra_prompt_parallel_decoding/</guid><description/></item><item><title>Scaling E-Commerce Attribute Extraction with Parallel Decoding</title><link>https://dushyantadhyani.github.io/publication/scaling_ecommerce_attribute_extraction/</link><pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate><author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author><guid>https://dushyantadhyani.github.io/publication/scaling_ecommerce_attribute_extraction/</guid><description/></item><item><title>Breaking the Autoregressive Chain: Hyper-Parallel Decoding for Efficient LLM-Based Attribute Value Extraction</title><link>https://dushyantadhyani.github.io/publication/hyper_parallel_decoding_attribute_extraction/</link><pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate><author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author><guid>https://dushyantadhyani.github.io/publication/hyper_parallel_decoding_attribute_extraction/</guid><description/></item><item><title>Text-to-Distribution Prediction with Quantile Tokens and Neighbor Context</title><link>https://dushyantadhyani.github.io/publication/text_to_distribution_quantile_tokens/</link><pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate><author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author><guid>https://dushyantadhyani.github.io/publication/text_to_distribution_quantile_tokens/</guid><description/></item><item><title>Quantile regression with large language models for price prediction</title><link>https://dushyantadhyani.github.io/publication/quantile_regression_llm_price_prediction/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author><guid>https://dushyantadhyani.github.io/publication/quantile_regression_llm_price_prediction/</guid><description/></item><item><title>Boosting Supervised Neural Relation Extraction with Distant Supervision</title><link>https://dushyantadhyani.github.io/publication/thesis/</link><pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate><author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author><guid>https://dushyantadhyani.github.io/publication/thesis/</guid><description/></item><item><title>OhioState at SemEval-2018 Task 7: Exploiting Data Augmentation for Relation Classification in Scientific Papers Using Piecewise Convolutional Neural Networks</title><link>https://dushyantadhyani.github.io/publication/semeval18/</link><pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate><author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author><guid>https://dushyantadhyani.github.io/publication/semeval18/</guid><description/></item><item><title>Tutorial - A Convolutional Encoder Model for Neural Machine Translation</title><link>https://dushyantadhyani.github.io/publication/conv2seq_nips/</link><pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate><author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author><guid>https://dushyantadhyani.github.io/publication/conv2seq_nips/</guid><description/></item><item><title>OhioState at IJCNLP-2017 Task 4: Exploring Neural Architectures for Multilingual Customer Feedback Analysis</title><link>https://dushyantadhyani.github.io/publication/ijcnlp_shared_task_4/</link><pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate><author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author><guid>https://dushyantadhyani.github.io/publication/ijcnlp_shared_task_4/</guid><description/></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Dushyanta Dhyani</title>
+    <link>http://localhost:1313/publication/</link>
+    <description>Recent content in Publications on Dushyanta Dhyani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>dush.dhyani@gmail.com (Dushyanta Dhyani)</managingEditor>
+    <webMaster>dush.dhyani@gmail.com (Dushyanta Dhyani)</webMaster>
+    <copyright>&amp;copy; 2018&amp;ndash;2026 Dushyanta Dhyani</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/publication/" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intra-Prompt Parallel Decoding for Common-Context Question Answering</title>
+      <link></link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling E-Commerce Attribute Extraction with Parallel Decoding</title>
+      <link></link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breaking the Autoregressive Chain: Hyper-Parallel Decoding for Efficient LLM-Based Attribute Value Extraction</title>
+      <link></link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text-to-Distribution Prediction with Quantile Tokens and Neighbor Context</title>
+      <link></link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantile regression with large language models for price prediction</title>
+      <link></link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boosting Supervised Neural Relation Extraction with Distant Supervision</title>
+      <link>http://localhost:1313/publication/thesis/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      <author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author>
+      <guid>http://localhost:1313/publication/thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OhioState at SemEval-2018 Task 7: Exploiting Data Augmentation for Relation Classification in Scientific Papers Using Piecewise Convolutional Neural Networks</title>
+      <link>http://localhost:1313/publication/semeval18/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      <author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author>
+      <guid>http://localhost:1313/publication/semeval18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial - A Convolutional Encoder Model for Neural Machine Translation</title>
+      <link>http://localhost:1313/publication/conv2seq_nips/</link>
+      <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
+      <author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author>
+      <guid>http://localhost:1313/publication/conv2seq_nips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OhioState at IJCNLP-2017 Task 4: Exploring Neural Architectures for Multilingual Customer Feedback Analysis</title>
+      <link>http://localhost:1313/publication/ijcnlp_shared_task_4/</link>
+      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
+      <author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author>
+      <guid>http://localhost:1313/publication/ijcnlp_shared_task_4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

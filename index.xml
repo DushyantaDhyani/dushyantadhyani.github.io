@@ -1,3 +1,170 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dushyanta Dhyani on Dushyanta Dhyani</title><link>https://dushyantadhyani.github.io/</link><description>Recent content in Dushyanta Dhyani on Dushyanta Dhyani</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>dush.dhyani@gmail.com (Dushyanta Dhyani)</managingEditor><webMaster>dush.dhyani@gmail.com (Dushyanta Dhyani)</webMaster><copyright>&amp;copy; 2018&amp;ndash;2026 Dushyanta Dhyani</copyright><lastBuildDate>Sun, 20 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dushyantadhyani.github.io/" rel="self" type="application/rss+xml"/><item><title>Dushyanta Dhyani</title><link>https://dushyantadhyani.github.io/</link><pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate><author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author><guid>https://dushyantadhyani.github.io/</guid><description/></item><item><title>1</title><link>https://dushyantadhyani.github.io/publication_types/1/</link><pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate><author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author><guid>https://dushyantadhyani.github.io/publication_types/1/</guid><description/></item><item><title>Intra-Prompt Parallel Decoding for Common-Context Question Answering</title><link>https://dushyantadhyani.github.io/publication/intra_prompt_parallel_decoding/</link><pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate><author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author><guid>https://dushyantadhyani.github.io/publication/intra_prompt_parallel_decoding/</guid><description/></item><item><title>Publication_types</title><link>https://dushyantadhyani.github.io/publication_types/</link><pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate><author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author><guid>https://dushyantadhyani.github.io/publication_types/</guid><description/></item><item><title>Scaling E-Commerce Attribute Extraction with Parallel Decoding</title><link>https://dushyantadhyani.github.io/publication/scaling_ecommerce_attribute_extraction/</link><pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate><author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author><guid>https://dushyantadhyani.github.io/publication/scaling_ecommerce_attribute_extraction/</guid><description/></item><item><title>Breaking the Autoregressive Chain: Hyper-Parallel Decoding for Efficient LLM-Based Attribute Value Extraction</title><link>https://dushyantadhyani.github.io/publication/hyper_parallel_decoding_attribute_extraction/</link><pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate><author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author><guid>https://dushyantadhyani.github.io/publication/hyper_parallel_decoding_attribute_extraction/</guid><description/></item><item><title>Text-to-Distribution Prediction with Quantile Tokens and Neighbor Context</title><link>https://dushyantadhyani.github.io/publication/text_to_distribution_quantile_tokens/</link><pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate><author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author><guid>https://dushyantadhyani.github.io/publication/text_to_distribution_quantile_tokens/</guid><description/></item><item><title>Quantile regression with large language models for price prediction</title><link>https://dushyantadhyani.github.io/publication/quantile_regression_llm_price_prediction/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author><guid>https://dushyantadhyani.github.io/publication/quantile_regression_llm_price_prediction/</guid><description/></item><item><title>Boosting Supervised Neural Relation Extraction with Distant Supervision</title><link>https://dushyantadhyani.github.io/publication/thesis/</link><pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate><author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author><guid>https://dushyantadhyani.github.io/publication/thesis/</guid><description/></item><item><title>Deep-Learning</title><link>https://dushyantadhyani.github.io/tags/deep-learning/</link><pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate><author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author><guid>https://dushyantadhyani.github.io/tags/deep-learning/</guid><description/></item><item><title>Knowledge Distillation (using Tensorflow)</title><link>https://dushyantadhyani.github.io/project/kd/</link><pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate><author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author><guid>https://dushyantadhyani.github.io/project/kd/</guid><description>&lt;p&gt;This is an implementation for the basic idea behind Hinton&amp;rsquo;s Knowledge Distillation Paper. We do not reproduce the exact results but rather show that the idea works.&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dushyanta Dhyani on Dushyanta Dhyani</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Dushyanta Dhyani on Dushyanta Dhyani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>dush.dhyani@gmail.com (Dushyanta Dhyani)</managingEditor>
+    <webMaster>dush.dhyani@gmail.com (Dushyanta Dhyani)</webMaster>
+    <copyright>&amp;copy; 2018&amp;ndash;2026 Dushyanta Dhyani</copyright>
+    <lastBuildDate>Sun, 20 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dushyanta Dhyani</title>
+      <link>http://localhost:1313/</link>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+      <author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author>
+      <guid>http://localhost:1313/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intra-Prompt Parallel Decoding for Common-Context Question Answering</title>
+      <link></link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling E-Commerce Attribute Extraction with Parallel Decoding</title>
+      <link></link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breaking the Autoregressive Chain: Hyper-Parallel Decoding for Efficient LLM-Based Attribute Value Extraction</title>
+      <link></link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text-to-Distribution Prediction with Quantile Tokens and Neighbor Context</title>
+      <link></link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantile regression with large language models for price prediction</title>
+      <link></link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boosting Supervised Neural Relation Extraction with Distant Supervision</title>
+      <link>http://localhost:1313/publication/thesis/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      <author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author>
+      <guid>http://localhost:1313/publication/thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep-Learning</title>
+      <link>http://localhost:1313/tags/deep-learning/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      <author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author>
+      <guid>http://localhost:1313/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge Distillation (using Tensorflow)</title>
+      <link>http://localhost:1313/project/kd/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      <author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author>
+      <guid>http://localhost:1313/project/kd/</guid>
+      <description>&lt;p&gt;This is an implementation for the basic idea behind Hinton&amp;rsquo;s Knowledge Distillation Paper. We do not reproduce the exact results but rather show that the idea works.&lt;/p&gt;
 &lt;p&gt;While a few other implementations are available, the code flow is not very intuitive. Here we generate the soft targets from the teacher in an on-line manner while training the student network.&lt;/p&gt;
-&lt;p&gt;While this may not (or may) be a good way to implement the distillation architecture, it leads to a good improvement in the (small) student model.&lt;/p&gt;</description></item><item><title>Machine-Learning</title><link>https://dushyantadhyani.github.io/tags/machine-learning/</link><pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate><author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author><guid>https://dushyantadhyani.github.io/tags/machine-learning/</guid><description/></item><item><title>Natural-Language-Processing</title><link>https://dushyantadhyani.github.io/tags/natural-language-processing/</link><pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate><author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author><guid>https://dushyantadhyani.github.io/tags/natural-language-processing/</guid><description/></item><item><title>Projects</title><link>https://dushyantadhyani.github.io/project/</link><pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate><author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author><guid>https://dushyantadhyani.github.io/project/</guid><description/></item><item><title>Tags</title><link>https://dushyantadhyani.github.io/tags/</link><pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate><author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author><guid>https://dushyantadhyani.github.io/tags/</guid><description/></item></channel></rss>
+&lt;p&gt;While this may not (or may) be a good way to implement the distillation architecture, it leads to a good improvement in the (small) student model.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine-Learning</title>
+      <link>http://localhost:1313/tags/machine-learning/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      <author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author>
+      <guid>http://localhost:1313/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural-Language-Processing</title>
+      <link>http://localhost:1313/tags/natural-language-processing/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      <author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author>
+      <guid>http://localhost:1313/tags/natural-language-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/project/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      <author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author>
+      <guid>http://localhost:1313/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>http://localhost:1313/tags/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      <author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author>
+      <guid>http://localhost:1313/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OhioState at SemEval-2018 Task 7: Exploiting Data Augmentation for Relation Classification in Scientific Papers Using Piecewise Convolutional Neural Networks</title>
+      <link>http://localhost:1313/publication/semeval18/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      <author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author>
+      <guid>http://localhost:1313/publication/semeval18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event &amp; Participant Extraction from News Articles (Automatic Timeline Generation of News Events)</title>
+      <link>http://localhost:1313/project/ukp_timeline_gen/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      <author>dush.dhyani@gmail.com (Dushyanta Dhyani)</author>
+      <guid>http://localhost:1313/project/ukp_timeline_gen/</guid>
+      <description>&lt;p&gt;The larger aim of the project is to create a chronological ordering of important sub-events (and their participants) involved in a bigger event. I worked on the task of creating a strong baseline model for identifying important events in news articles and their associated participants. We used articles from the ECB+ Corpus and Timebank Corpus. We performed extensive feature engineering using syntactic and semantic features that were then used with a CRF Classifier to achieve the following F-1 scores:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Event Extraction&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ECB+ Corpus - 73.02 %&lt;/li&gt;
+&lt;li&gt;TimeBank Corpus - 80.78%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Participants&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ECB+ Corpus - 56.51%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
